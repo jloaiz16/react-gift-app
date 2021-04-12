@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GifGridItem /> suit test Should render <GifGridItem /> properly 1`] = `
+<div
+  className="gif-container animate__bounceIn"
+>
+  <h4>
+     
+    Test
+  </h4>
+  <img
+    alt="Test"
+    src="https://media.giphy.com/media/X7s4uckfyihGJDrSpo/giphy.gif"
+  />
+</div>
+`;
